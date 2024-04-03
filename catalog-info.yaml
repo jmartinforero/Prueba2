@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: Hola
+  spec:
+  type: service
+  owner: user:guest
+  lifecycle: experimental 
+annotation:
+  github: https://github.com/jmartinforero/Prueba2.git
